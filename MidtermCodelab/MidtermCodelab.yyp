@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "35ba0d7c-0604-428f-ade3-cda335e996f2",
+            "Value": {
+                "id": "5f55678c-0fef-46ee-9820-c11b237f3497",
+                "resourcePath": "objects\/obj_blackkey\/obj_blackkey.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e97da6b-3395-49f4-8f8b-c43d5ba39f1d",
             "Value": {
                 "id": "7ff1893e-5f1b-4940-ba87-5a5379560fbf",
@@ -79,6 +87,14 @@
             }
         },
         {
+            "Key": "6a1fe77f-575a-4316-b60f-22f1bd39265f",
+            "Value": {
+                "id": "11f46720-1536-412b-a766-f85ed4d8f62a",
+                "resourcePath": "objects\/obj_whitekey\/obj_whitekey.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6a4dc26a-32e7-4872-a4b6-dfaa35c9d9e3",
             "Value": {
                 "id": "587a01f6-8b8d-46f5-b531-86175d2cf69a",
@@ -92,6 +108,14 @@
                 "id": "1d222742-b04c-4895-98fb-755dbccd87c2",
                 "resourcePath": "views\/6e7407cb-6add-466a-ac06-94c1c1732aa4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "723c7681-43de-4c64-8d11-d2a2785de3de",
+            "Value": {
+                "id": "dbcaebc1-d552-4ddd-b217-508b076d8106",
+                "resourcePath": "sprites\/spr_whitekey\/spr_whitekey.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -143,6 +167,14 @@
             }
         },
         {
+            "Key": "8d8d36bf-810d-4144-acd3-294939180534",
+            "Value": {
+                "id": "0ac7dc65-85ca-4b3b-ad01-b34544d2273f",
+                "resourcePath": "sprites\/spr_blackkey\/spr_blackkey.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
             "Value": {
                 "id": "fb1f379d-8762-42a6-b95d-6c4203e16bd3",
@@ -188,6 +220,14 @@
                 "id": "21610aa2-197a-431b-901d-1214ff0ceaec",
                 "resourcePath": "views\/bc97cef7-9458-4fc3-af11-e4919534bd4f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c05c1964-7b82-416c-bb43-3af582483699",
+            "Value": {
+                "id": "dbb4041f-24fc-4414-ac63-a8358bac389e",
+                "resourcePath": "sounds\/sng_tea\/sng_tea.yy",
+                "resourceType": "GMSound"
             }
         },
         {
