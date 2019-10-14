@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "2d12002c-a2df-4b5d-bf10-cdb1ca3b6c71",
+            "Value": {
+                "id": "1a58d4f5-7727-4493-93e5-2d67d457d511",
+                "resourcePath": "timelines\/notes\/notes.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "2f5fc50f-1b9f-46ea-8243-f47482bd4845",
             "Value": {
                 "id": "0f745e91-ce14-4305-a7fb-79c7099d77bc",
@@ -60,6 +68,14 @@
                 "id": "7ff1893e-5f1b-4940-ba87-5a5379560fbf",
                 "resourcePath": "views\/3e97da6b-3395-49f4-8f8b-c43d5ba39f1d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "41ee9b3e-b71e-4973-b74e-e58437bc651c",
+            "Value": {
+                "id": "2ded5b01-1450-4ddc-90bd-8df85b94fda1",
+                "resourcePath": "rooms\/endgame\/endgame.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -111,6 +127,14 @@
             }
         },
         {
+            "Key": "6f2b7c44-25ed-4ca3-8999-8a0e13ba4b01",
+            "Value": {
+                "id": "7b169149-7b1c-41f2-b8f8-7db396dad91e",
+                "resourcePath": "objects\/obj_endscore\/obj_endscore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "723c7681-43de-4c64-8d11-d2a2785de3de",
             "Value": {
                 "id": "dbcaebc1-d552-4ddd-b217-508b076d8106",
@@ -124,6 +148,14 @@
                 "id": "f55b1820-74fe-4505-901f-e06e254a68c0",
                 "resourcePath": "options\/html5\/options_html5.yy",
                 "resourceType": "GMHtml5Options"
+            }
+        },
+        {
+            "Key": "76110841-d99f-406a-bbd4-e5002c8b06fc",
+            "Value": {
+                "id": "d59c51f0-be4c-4b87-97bc-78beca5809e8",
+                "resourcePath": "fonts\/balboa\/balboa.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -146,7 +178,7 @@
             "Key": "7e34fd4e-7ba7-41fe-a219-4d84e386abe5",
             "Value": {
                 "id": "18dfa19a-8828-4605-99e8-e07b5576ca6e",
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/musicroom\/musicroom.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -226,7 +258,7 @@
             "Key": "c05c1964-7b82-416c-bb43-3af582483699",
             "Value": {
                 "id": "dbb4041f-24fc-4414-ac63-a8358bac389e",
-                "resourcePath": "sounds\/sng_tea\/sng_tea.yy",
+                "resourcePath": "sounds\/sng_dont\/sng_dont.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -271,6 +303,14 @@
             }
         },
         {
+            "Key": "e45031c4-1fa6-4e49-8269-8af342b2ea41",
+            "Value": {
+                "id": "cef691c9-8a53-4ce7-8054-6b2ba1a106b1",
+                "resourcePath": "scripts\/musicnote\/musicnote.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "6a976f8b-d67e-425c-81c8-66f62c36c2c8",
@@ -288,7 +328,7 @@
         }
     ],
     "script_order": [
-        
+        "e45031c4-1fa6-4e49-8269-8af342b2ea41"
     ],
     "tutorial": ""
 }
