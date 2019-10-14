@@ -69,7 +69,7 @@ musicnote("Y", 710);
 musicnote("T", 740);
 
 //21
-musicnote("W", 770)
+musicnote("W", 770);
 
 //22
 musicnote("Y", 815);
@@ -78,7 +78,7 @@ musicnote("Y", 815);
 musicnote("T", 845);
 
 //24
-musicnote("W", 875)
+musicnote("W", 875);
 
 //25
 musicnote("Y", 920);
@@ -87,7 +87,7 @@ musicnote("Y", 920);
 musicnote("T", 950);
 
 //27
-musicnote("W", 980)
+musicnote("W", 980);
 
 //28
 musicnote("Y", 1025);
@@ -96,7 +96,7 @@ musicnote("Y", 1025);
 musicnote("T", 1055);
 
 //30
-musicnote("W", 1085)
+musicnote("W", 1085);
 
 //31
 musicnote("Y", 1130);
@@ -106,6 +106,50 @@ musicnote("T", 1160);
 
 //33
 musicnote("W", 1190)
+;
+//34
+musicnote("Y", 1235);
+
+//35
+musicnote("T", 1265);
+
+//36
+musicnote("W", 1295);
+
+//37
+musicnote("Y", 1345);
+
+//38 has no black notes
+
+//39
+musicnote("W", 1425);
+
+//40
+musicnote("Y", 1505);
+
+//41 has no black notes
+
+//42
+musicnote("W", 1575);
+
+//43
+musicnote("Y", 1670);
+
+//44  has no black notes
+
+//45
+musicnote("W", 1730);
+
+//46
+musicnote("E", 1830);
+musicnote("T", 1830);
+
+//47
+musicnote("E", 1905);
+musicnote("T", 1905);
+
+
+
 
 
 

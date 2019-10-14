@@ -144,7 +144,63 @@ musicnote("H", 1060);
 musicnote("D", 1190);
 musicnote("H", 1190);
 
+//34
+musicnote("D", 1235);
+musicnote("J", 1235);
 
+//35
+musicnote("S", 1265);
+musicnote("H", 1265);
 
+//36
+musicnote("D", 1295);
+musicnote("H", 1295);
+
+//37
+musicnote("D", 1345);
+musicnote("J", 1345);
+
+//38
+musicnote("A", 1380);
+musicnote("D", 1380);
+musicnote("H", 1380);
+
+//39
+musicnote("D", 1425);
+musicnote("H", 1425);
+
+//40
+musicnote("D", 1505);
+musicnote("J", 1505);
+
+//41
+musicnote("A", 1535);
+musicnote("D", 1535);
+musicnote("H", 1535);
+
+//42
+musicnote("D", 1575);
+musicnote("J", 1575);
+
+//43
+musicnote("D", 1670);
+musicnote("J", 1670);
+
+//44
+musicnote("A", 1700);
+musicnote("D", 1700);
+musicnote("H", 1700);
+
+//45
+musicnote("D", 1730);
+musicnote("J", 1730);
+
+//46
+musicnote("H", 1830);
+musicnote("J", 1830);
+
+//47
+musicnote("H", 1905);
+musicnote("J", 1905);
 
 

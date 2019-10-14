@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "2d12002c-a2df-4b5d-bf10-cdb1ca3b6c71",
-            "Value": {
-                "id": "1a58d4f5-7727-4493-93e5-2d67d457d511",
-                "resourcePath": "timelines\/notes\/notes.yy",
-                "resourceType": "GMTimeline"
-            }
-        },
-        {
             "Key": "2f5fc50f-1b9f-46ea-8243-f47482bd4845",
             "Value": {
                 "id": "0f745e91-ce14-4305-a7fb-79c7099d77bc",
